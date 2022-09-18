@@ -1,6 +1,22 @@
+---
+title: "Atommodellen"
+keywords:
+  - Atommodell
+  - Atom
+  - De fyra elementen
+  - Elektron
+  - Proton
+  - Neutron
+  - Masstal
+  - Atomnummer
+  - Atommassa
+  - Nuklid
+  - Isotop
+...
+
 # Atommodellen
 ## Historia
-Man tänkte länge att allt var uppbyggt av [[De fyra elementen]]: eld, vatten, luft, och jord.
+Man tänkte länge att allt var uppbyggt av [[De_fyra_elementen]]: eld, vatten, luft, och jord.
 Demokritos (en grekisk filosof) hade funderat på att det borde finnas en minsta (odelbar) byggsten.
 
 På 1800-talet visade det sig att Demokritos hade haft (nästan) rätt. Då upptäcke John Dalton atomen.
@@ -9,7 +25,7 @@ Ett tag senare skapade Dmitrij Mendeljev det första _Periodiska systemet_.
 
 Henri Becquerel upptäckte strålning och senare upptcäkte Marie Curie radioaktivt sönderfall och att atomen faktiskt var delbar.
 
-J.J. Thomson upptcäkte att atomer innehåller [[elektroner]] och lade fram _plum-pudding-modellen_. Den byggde på att atomen var byggd av en positivt laddad "deg" och att negativt elektroner låg i denna "deg" som russin i en russinkaka.
+J.J. Thomson upptcäkte att atomer innehåller elektroner och lade fram _plum-pudding-modellen_. Den byggde på att atomen var byggd av en positivt laddad "deg" och att negativt elektroner låg i denna "deg" som russin i en russinkaka.
 
 Rutherfords upptäckte att atomen inte var en deg, utan istället hade en solid kärna. Han trodde att elektronerna kretsade runt denna kärna som planeter runt solen —  men det fanns ett problem med detta: elektronerna borde i så fall fara rakt in i kärnan. Mellan kärnan och elektronerna skulle det finnas tomrum.
 
@@ -18,7 +34,7 @@ Niels Bohr upptcäkte att elektronerna ligger som i "skal" runt atomerna genom a
 Vid ett senare skede upptcäker Rutherfords också att kärnan består av protoner (positivt laddade partiklar). Han tror att det också måste finnas något sorts "lim" som håller ihop kärnan, eftersom lika laddningar repellerar varandra. Efter hans död så upptcäker hans elev, James Chadwick, att ett sådant "lim" finns, nämligen neutroner.
 
 ## Kemisk beteckning
-$^1_1\text{H}$ är hur en väteatom betecknas. Det översta numret är [masstalet](:/7aa84e69846f499798ac1809a981f8a5). Masstalet beskriver hur många partiklar (protoner och neutroner) som finns i atomkärnan. Masstalet kan alltså beskrivas med $A=Z+N$ där $A$ är masstalet och $Z$ och $N$ är protoner respektive neutroner. Det undre talet betecknar atomens [atomnummer](:/00bf40726328448d8dbc9afaa806e31d). Atomnumret är **alltid** lika med antalet protononer i [atomen](:/f62fd2312c1f4ffc96b12ecb401b7af9). 
+$^1_1\text{H}$ är hur en väteatom betecknas. Det översta numret är [[Masstal]]. Masstalet beskriver hur många partiklar (protoner och neutroner) som finns i atomkärnan. Masstalet kan alltså beskrivas med $A=Z+N$ där $A$ är masstalet och $Z$ och $N$ är protoner respektive neutroner. Det undre talet betecknar atomens [[Atomnummer]]. Atomnumret är **alltid** lika med antalet protononer i [[Atom]]en. 
 
 ### Nuklid
 En nuklid är ett atomslag med visst antal protoner och antal neutroner.

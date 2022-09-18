@@ -1,3 +1,10 @@
+---
+title: "Atomnummer"
+keywords:
+  - Atomnummer
+  - Proton
+...
+
 # Vad är atomnummer?
 *Atomnuret* beskriver hur många protononer som finns i en atomkärna. Varje sorts atom har helt enkelt sitt eget atomnummer. 
 
