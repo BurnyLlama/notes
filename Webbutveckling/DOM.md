@@ -123,3 +123,58 @@ Förväntat resultat:
 ![4de1f0d1fe3858d5af13dffff6658e56.png](4de1f0d1fe3858d5af13dffff6658e56.png)
 Förväntat resultat när knappen ("OK") trycks:
 ![92dfe7e89eede024bb12d849116210e2.png](92dfe7e89eede024bb12d849116210e2.png)
+
+# Bra metoder
+```js
+// Ändra text i element:
+element.innerText = "New text"
+
+// Ändra bakgrundsfärg:
+element.style.background = "#67fe45"
+
+// Ändra vad som händer när en knapp klickas:
+button.addEventlistener(
+    "click",
+    event => {
+        // Gör saker...
+    }
+)
+
+// Lägg till ett nytt element i dokumentet eller
+// inuti ett annat element:
+const newElement = documentt.createElement("...")
+document.appendChild(newElement)
+element.appendChild(newElement)
+
+// Kolla om ett element har en specifik klass:
+element.classList.contains("class") // returns true | false
+
+// Växla ett element:
+element.classList.toggle("class", condition)
+// Lägger till klassen "class" om den inte finns,
+// om den finns, så ta bort den. "class" kan nu
+// ändras med hjälp av CSS.
+// Condition kan användas för att berätta när
+// klassen ska bytas ut, t.ex. `i < 10`
+// Om ingen condition specifieras så tolkas det
+// som att den är `true`.
+
+// Byt ut en klass:
+element.classList.replace("class1", "class2")
+// Byter ut "class1" mot "class2".
+
+// Lägg till eller ta bort en klass:
+element.classList.add("class")
+element.classList.remove("class")
+// ... eller på flera klasser:
+element.classList.add("class1", "class2", "class3")
+element.classList.remove("class1", "class2", "class3")
+
+// Gör något på flera element:
+document.querySelectorAll("selector")
+    .forEach(
+        element => {
+            // Gör något...
+        }
+    )
+```
