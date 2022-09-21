@@ -12,6 +12,7 @@ keywords:
   - Atommassa
   - Nuklid
   - Isotop
+  - Elektronskal
 ...
 
 # Atommodellen
@@ -34,7 +35,7 @@ Niels Bohr upptcäkte att elektronerna ligger som i "skal" runt atomerna genom a
 Vid ett senare skede upptcäker Rutherfords också att kärnan består av protoner (positivt laddade partiklar). Han tror att det också måste finnas något sorts "lim" som håller ihop kärnan, eftersom lika laddningar repellerar varandra. Efter hans död så upptcäker hans elev, James Chadwick, att ett sådant "lim" finns, nämligen neutroner.
 
 ## Kemisk beteckning
-$^1_1\text{H}$ är hur en väteatom betecknas. Det översta numret är [[Masstal]]. Masstalet beskriver hur många partiklar (protoner och neutroner) som finns i atomkärnan. Masstalet kan alltså beskrivas med $A=Z+N$ där $A$ är masstalet och $Z$ och $N$ är protoner respektive neutroner. Det undre talet betecknar atomens [[Atomnummer]]. Atomnumret är **alltid** lika med antalet protononer i [[Atom]]en. 
+$^1_1\text{H}$ är hur en väteatom betecknas. Det översta numret är [[Masstal]]. Masstalet beskriver hur många partiklar (protoner och neutroner) som finns i atomkärnan. Masstalet kan alltså beskrivas med $A=Z+N$ där $A$ är masstalet och $Z$ och $N$ är protoner respektive neutroner. Det undre talet betecknar atomens [[Atomnummer]]. Atomnumret är **alltid** lika med antalet protononer i [[Atom]]en.
 
 ### Nuklid
 En nuklid är ett atomslag med visst antal protoner och antal neutroner.
