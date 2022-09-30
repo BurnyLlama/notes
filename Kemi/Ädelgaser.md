@@ -1,8 +1,10 @@
 ---
 title: "Ädelgaser"
 keywords:
-  - Period
+  - Elektron
+  - Elektronskal
   - Periodiska systemet
+  - Valenselektron
   - Ädelgas
   - Ädelgasstruktur
 ...
@@ -37,4 +39,4 @@ Argon används vid svetsning för att förhindra att metallen reagerar med luft.
 Radon är radioaktivt och sönderfaller till andra radioaktiva ämnen. Dock är radon i sig inte _så farligt_. Radon är mest farligt för rökare, som redan förorenar sina lungor med rök.
 
 ### Oganesson
-Är det tyngsta, och kanske sista, ämne. Det syntiserades för första gången 2006 och accepterades officiellt som grundämne 2016. Dock har det inte syntiserats så många atomer av det, så det finns inga experiment utförda med det och vi känner inte till några egenskaper. Det är också möjligt att Oganesson inte ens är gas i rumstemperatur. 
+Är det tyngsta, och kanske sista, ämne. Det syntiserades för första gången 2006 och accepterades officiellt som grundämne 2016. Dock har det inte syntiserats så många atomer av det, så det finns inga experiment utförda med det och vi känner inte till några egenskaper. Det är också möjligt att Oganesson inte ens är gas i rumstemperatur. Oganesson är också beräknat att vara den mest reaktiva ädelgasen också.
