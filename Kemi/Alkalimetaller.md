@@ -1,9 +1,12 @@
 ---
 title: "Alkalimetaller"
 keywords:
-  - Alkali
   - Alkalimetall
+  - Elektron
+  - Oxidera
+  - Oxidering
   - Periodiska systemet
+  - Valenselektron
 ...
 
 # Alklimetaller
@@ -24,5 +27,5 @@ När en alkalimetall, t.ex. natrium, reagerar så släpper den ifrån sig sin en
 ## Vilken alkalimetall är mest reaktiv?
  Elektroner längre ifrån kärnan känner av kärnladdning mindre än de elektroner som är närmare. Därför tar det mindre energi att släppa dem. Joniseringsenergin blir alltså lägre. Det gör så att större alkalimetaller är mer reaktiva än mindre — eftersom de har längre till sina valenselektroner och då släpper dem lättare. Det gör så att francium ($\ce{_{87}Fr}$) blir den mest reaktiva alkalimetallen. Litium, å andra sidan, är mycket mindre och håller därför starkare i sina valenselektroner och är inte lika reaktiv. Reaktiviteten ökar alltså nedåt i grupp 1 (1A).
  
-## Vad händer med elektronernavid oxidationen?
+## Vad händer med elektronerna vid oxidationen?
  När alkalimetallerna metallerna oxideras släpper dem i princip alltid ifrån sina elektroner till ett annat ämne som plockar upp dem. Ett exmepel på detta är när natrium och klorgas reagerar och bildar natriumklorid, eller koksalt med vardagligt namn. Reaktionen ser ut såhär: $\ce{2Na + Cl_2 \rightarrow 2NaCl}$. 
