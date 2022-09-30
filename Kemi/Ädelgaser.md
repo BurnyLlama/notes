@@ -3,7 +3,9 @@ title: "Ädelgaser"
 keywords:
   - Elektron
   - Elektronskal
+  - Inert
   - Periodiska systemet
+  - Reaktionströg
   - Valenselektron
   - Ädelgas
   - Ädelgasstruktur
@@ -20,7 +22,7 @@ keywords:
 * Oganesson ($\ce{_{118}Og}$)
 
 ## Varför heter det ädelgaser?
-Alla ädelgaser har så kallad _ädelgasstruktur_. Det innebär att de har ett fullt yttre elektronskal. Det vill säga åtta valenselektroner för alla ädelgaser utom helium, som har två. Ett fullt yttre elektronskal gör att atomerna blir _extra stabila_ och därmed helst inte reagerar med andra ämnen. Att ett ämne har svårt att reagera kallas att de är _inerta_ eller _reaktions tröga_. Eftersom de ofta inte reagerar med andra ämnen så hittas de oftast i sin rena, alltså ädla, form. Just därför kallas de för ädelgaser. 
+Alla ädelgaser har så kallad _ädelgasstruktur_. Det innebär att de har ett fullt yttre elektronskal. Det vill säga åtta valenselektroner för alla ädelgaser utom helium, som har två. Ett fullt yttre elektronskal gör att atomerna blir _extra stabila_ och därmed helst inte reagerar med andra ämnen. Att ett ämne har svårt att reagera kallas att de är _inerta_ eller _reaktionströga_. Eftersom de ofta inte reagerar med andra ämnen så hittas de oftast i sin rena, alltså ädla, form. Just därför kallas de för ädelgaser. 
 
 ## Egenskaper
 Ädelgaserna är inerta och vid rumstemperatur är de lukt- och färglösa gaser. Däremot är det okänt hur oganessons egenskaper ser ut, eftersom vi inte kunnat framställa mer än några få atomer av det. Ädelgaserna har också väldigt låga smältpunkter. 
