@@ -27,12 +27,14 @@ En sådan reaktion kan skrivas på flera sätt:
    elektron
 ```
 * Med elektronkonfigurationer:
-|    Na | K    | L    | M    | : |    Cl | K    | L    | M   |
+|    Na | K    | L    | M    | - |    Cl | K    | L    | M   |
 |------:|------|------|------|:-:|------:|------|------|-----|
-| 11 p+ | 2 e- | 8 e- | 1 e- | : | 17 p+ | 2 e- | 8 e- | 7 e |→ 
-|   Na+ | K    | L    | M    | : |   Cl- | K    | L    | M   |
-|------:|------|------|------|:-:|------:|------|------|-----|
-| 11 p+ | 2 e- | 8 e- | 0 e- | : | 17 p+ | 2 e- | 8 e- | 8 e |
+| 11 p+ | 2 e- | 8 e- | 1 e- | - | 17 p+ | 2 e- | 8 e- | 7 e |
+→ 
+
+|   Na+ | K    | L    | M    |  |   Cl- | K    | L    | M   |
+|------:|------|------|------| - |------:|------|------|-----|
+| 11 p+ | 2 e- | 8 e- | 0 e- |  | 17 p+ | 2 e- | 8 e- | 8 e |
 * Med reaktionsformel: $\ce{Na + Cl \rightarrow [Na^+Cl^-] \rightarrow NaCl}$
 * Med balanserad reaktionsformel: $\ce{2Na + Cl_2 \rightarrow 2NaCl}$
 
