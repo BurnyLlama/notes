@@ -7,6 +7,10 @@ keywords:
   - Natrium
   - Natriumklorid
   - Saltbildare
+  - Jonbindning
+  - Jonförening
+  - Indunstning
+  - Reaktionsformel
 videos:
   - https://youtu.be/4RhQ558chLc
   - https://youtu.be/f_qqJOzHJPo
