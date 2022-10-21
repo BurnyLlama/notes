@@ -27,6 +27,7 @@ En sådan reaktion kan skrivas på flera sätt:
    elektron
 ```
 * Med elektronkonfigurationer:
+
 |    Na | K    | L    | M    | - |    Cl | K    | L    | M   |
 |------:|------|------|------|:-:|------:|------|------|-----|
 | 11 p+ | 2 e- | 8 e- | 1 e- | - | 17 p+ | 2 e- | 8 e- | 7 e |
