@@ -13,7 +13,7 @@ keywords:
   - Nuklid
   - Isotop
   - Elektronskal
-...
+---
 
 # Atommodellen
 ## Historia

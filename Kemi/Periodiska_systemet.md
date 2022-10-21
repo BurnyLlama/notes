@@ -15,7 +15,7 @@ keywords:
   - Valenselektron
   - Ädelgas
   - Övergångsmetall
-...
+---
 
 # Vad är periodiska systemet?
 Dmitrij Mendelejev ordnar under mitten av 1800-talet de då upptäkta grundämnena efter atommassa. Då kände man till ca 60 grundämnen. Han märkte att vissa av dessa grundämnen hade vissa gemenskapa egenskaper och att dessa upprepades efter ett visst intervall; med viss _periodivisitet_.

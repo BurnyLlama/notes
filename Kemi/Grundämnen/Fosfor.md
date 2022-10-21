@@ -2,7 +2,7 @@
 title: "15. Fosfor"
 keywords:
   - Fosfor
-...
+---
 
 # Fosfor
 Fosfor ($\ce{_{15}P}$) kan förekomma i några olika former:

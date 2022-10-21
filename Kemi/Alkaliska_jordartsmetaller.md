@@ -4,7 +4,7 @@ keywords:
   - Alkalisk jordartsmetall
   - Elektron
   - Valenselektron
-...
+---
 
 # Alkaliska jordartsmetaller
 De alkaliska jordartsmetallerna ligger i grupp 2 (2A) i det periodiska systemet och är följande:

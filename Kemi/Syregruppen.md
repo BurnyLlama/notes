@@ -4,7 +4,7 @@ keywords:
   - Syregruppen
   - Elektron
   - Valenselektron
-...
+---
 
 # Syregruppen
 Syregruppen är namnet på grupp 16 (6A). Grundämnena i gruppen är:

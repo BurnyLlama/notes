@@ -7,7 +7,7 @@ keywords:
   - Oxidering
   - Periodiska systemet
   - Valenselektron
-...
+---
 
 # Alklimetaller
 Alkalimetallerna ligger längst till vänster i det periodiska systemet, d.v.s. grupp 1 (1A). Det enda undantaget skulle kunna vara väte ($\ce{_1H}$) som inte är en metall mer än vid mycket låga temperaturer och under extremt tryck. De andra alkalimetallerna är:

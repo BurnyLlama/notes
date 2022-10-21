@@ -7,7 +7,7 @@ keywords:
   - Redusera
   - Saltbildare
   - Ädelgasstruktur
-...
+---
 
 # Halogener
 Halogenerna ligger nästlängst till höger i det periodiska systemet, alltså i grupp 17 (7A). Halogener kan också kallas _saltbildare_ eftersom de bildar salter när de reagerar med en metall. De vanligaste halogenerna är:

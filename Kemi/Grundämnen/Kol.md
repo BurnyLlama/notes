@@ -6,7 +6,7 @@ keywords:
   - Grafit
   - Grafen
   - Diamant
-...
+---
 
 
 # Kol

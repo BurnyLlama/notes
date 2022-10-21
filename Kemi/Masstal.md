@@ -4,7 +4,7 @@ keywords:
   - Masstal
   - Proton
   - Neutron
-...
+---
 
 # Vad är masstal?
 *Masstalet* beskriver hur många neutroner och protononer som finns i en atomkärna. 

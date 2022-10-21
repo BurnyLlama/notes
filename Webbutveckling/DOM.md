@@ -3,7 +3,7 @@ title: "DOM (Document Object Model)"
 keywords:
   - DOM
   - Document Object Model
-...
+---
 
 # Vad är DOM?
 DOM står för _Document Object Model_. DOM kan modifieras med hjälp av Javascript.

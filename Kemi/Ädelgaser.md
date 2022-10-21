@@ -9,7 +9,7 @@ keywords:
   - Valenselektron
   - Ädelgas
   - Ädelgasstruktur
-...
+---
 
 # Ädelgaser
 Ädelgaser ligger längst till höger i det periodiska systemet, alltså i grupp 18 (8A). Ädelgaserna är följande:

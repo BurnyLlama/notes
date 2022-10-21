@@ -3,7 +3,7 @@ title: "Fällningsreaktioner"
 keywords:
   - Fällning
   - Jon
-...
+---
 
 # Fällningsreaktioner
 Jonföreningar kan bildas via fällningsreaktioner. En fällningsreaktion sker när två jonlösningar blandas och tillsammans bildar ett salt som inte löser sig i lösningarna. Detta salt kallas för _fällning_. 
