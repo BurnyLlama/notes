@@ -14,7 +14,7 @@ keywords:
 videos:
   - https://youtu.be/4RhQ558chLc
   - https://youtu.be/f_qqJOzHJPo
-...
+---
 
 # Jonbindningar och jonföreningar
 Jonföreningar bildas när en halogen (saltbildare) reagerar med en metall. Därför är salten som bildas jonföreningar. Metallen bildar en positiv jon och halogenen bildar en negativ jon.
