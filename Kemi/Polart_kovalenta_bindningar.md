@@ -3,7 +3,9 @@ title: "Polärt kovalenta bindningar"
 keywords:
   - Dipol
   - Elektronegativitet
+  - Kovalent binding
   - Polärt kovalent bindning
+  - Skillnad i elektronegativitet
 ---
 
 # Polärt kovalenta bindningar
