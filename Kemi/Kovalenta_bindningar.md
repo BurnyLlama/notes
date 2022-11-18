@@ -3,6 +3,8 @@ title: "Kovalenta bindnignar"
 keywords:
   - Enkelbildning
   - Kovalent bindning
+  - Molekylformel
+  - Elektronformel
 ---
 
 # Kovalenta bindningar
