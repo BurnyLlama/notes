@@ -1,8 +1,10 @@
 ---
 title: "Kovalenta bindnignar"
 keywords:
+  - Dubbelbindning
   - Enkelbildning
   - Kovalent bindning
+  - Trippelbindning
 ---
 
 # Kovalenta bindningar

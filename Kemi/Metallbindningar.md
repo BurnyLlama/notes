@@ -1,11 +1,13 @@
 ---
 title: "Metallbindningar"
 keywords:
-  - Delokliserade
+  - Delokliserad
   - Delokliserade elektroner
   - Elektroner
+  - Elektronmoln
   - Metall
   - Metallbindning
+  - Smidbar
 ---
 
 # Metallbindningar
