@@ -6,7 +6,7 @@ keywords:
 ---
 
 # Vätebindningar
-Vätebindngar är som en starkare form av [[Dipol-dipol-bindning]]. I en vätebindning delar två starkt elektronegativa atomer på en proton (från en väteatom). De kan alltså uppstå när en väteatom är bunden till syre, kväve, flour, och klor.
+Vätebindngar är som en starkare form av [[Dipol-dipol-bindning]]. I en vätebindning delar två starkt elektronegativa atomer på en proton (från en väteatom). De kan alltså uppstå när en väteatom är bunden till syre, kväve, flour, och eventuellt klor.
 
 ## Exempel: Vatten
 TODO!
