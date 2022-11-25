@@ -11,7 +11,7 @@ Van der Waals-bindningar är _tillfälliga [[Dipol-dipol-bindning]]ar_. På grun
 
 ## Exempel: Kvävgas
 TODO!
-$\ce{^{\delta+}N-N^{\delta-} <-> N-N <-> ^{\delta-}N-N^{\delta+}}$
+$\ce{^{\delta+}N\equiv N^{\delta-} <-> N\equiv N <-> ^{\delta-}N\equiv N^{\delta+}}$
 
 ## Exempel: Kolväten
 TODO!
