@@ -1,7 +1,9 @@
 ---
 title: "Van der Waals-bindning"
 keywords:
-
+  - Dipol
+  - Dipol-dipol-bindning
+  - Van der Waals-bindning
 ---
 
 # Van der Waals-bindning
