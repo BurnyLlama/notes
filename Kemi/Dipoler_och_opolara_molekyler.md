@@ -46,7 +46,6 @@ TODO: Lägg in exempel på glykol.
 ## Är en molekyl en dipol eller inte?
 1. Kolla på strukturen.
 2. Rita elektron- och strukturformel.
-3. TODO: Leta upp listan.
-4. Räkna områden med hög elektrontäthet.
-5. Sätt de elektrontäta områdena så långt ifrån varandra i 3D.
-6. Om laddningarna är jämt fördelade runt molekylen är den inte en dipol. Om laddningarna är ojämt fördelade så är det en dipol.
+3. Räkna områden med hög elektrontäthet.
+4. Sätt de elektrontäta områdena så långt ifrån varandra i 3D.
+5. Om laddningarna är jämt fördelade runt molekylen är den inte en dipol. Om laddningarna är ojämt fördelade så är det en dipol.
