@@ -28,7 +28,10 @@ H - N :
     |
     H
 ```
-Igen så bildas fyra elektronpar: tre mellan vardera väteatom och kväve och ett fritt atompar. Alla atomer har uppnått ädelgasstruktur. Igen så sitter dessa så långt ifrån varandra som möjligt, i en tetraeder. Dock, det ena hörnet av tetraedern är ju bara ett fritt elektronpar, så själva molekylen ser ut som en tillplattad tetraeder. Kväveatomen drar mer i elektronerna än väteatomerna, eftersom den har starkare elektronegativitet. Det betyder att kväveatomen blir lite negativt laddad då elektornerna tillbringar mer tid där. Väteatomerna blir lite positivt laddad. Detta gör att ena sidan av molekylen blir mer negativt laddad (den med det fria elektronparet) och den andra blir mer positivt laddad (den med väteatomerna). Detta kan skrivas såhär: $\ce{^{\delta+}N-H_3^{\delta-}}$ 
+Igen så bildas fyra elektronpar: tre mellan vardera väteatom och kväve och ett fritt atompar. Alla atomer har uppnått ädelgasstruktur. Igen så sitter dessa så långt ifrån varandra som möjligt, i en tetraeder. Dock, det ena hörnet av tetraedern är ju bara ett fritt elektronpar, så själva molekylen ser ut som en tillplattad tetraeder. Kväveatomen drar mer i elektronerna än väteatomerna, eftersom den har starkare elektronegativitet. Det betyder att kväveatomen blir lite negativt laddad då elektornerna tillbringar mer tid där. Väteatomerna blir lite positivt laddad. Detta gör att ena sidan av molekylen blir mer negativt laddad (den med det fria elektronparet) och den andra blir mer positivt laddad (den med väteatomerna). Detta kan skrivas såhär: $\ce{^{\delta-}N-H_3^{\delta+}}$ 
+
+## Exempel: Vatten
+TODO: Lägg till vattenexempel?
 
 ## Exempel: Koldioxid
 Koldioxid, $\ce{CO_2}$, består av en kolatom och två syreatomer. Syreatomerna binder till koldioxiden genom varsin dubbelbindning:
@@ -36,3 +39,14 @@ Koldioxid, $\ce{CO_2}$, består av en kolatom och två syreatomer. Syreatomerna 
 O = C = O
 ```
 Eftersom det inte finns några fria elektronpar och alla atomer har uppnåt ädelgasstruktur, så kommer bindningarna hamna på varsin sida om kolatomen för att vara så långt ifrån varandra som möjligt. Syreatomerna drar mer i elektronerna än kolatomen, men eftersom det finns en syreatom på vardera sida om kolatomen, så blir laddningarna samma på vardera sida. Därför är koldioxid inte en dipol. Det finns dock en lokal laddningsskillnad mellan vardera syreatom och kolatomen. Koldioxid är helt enkelt en opolär molekyl, trots att den innehåller polärt kovalenta bindningar.
+
+## Exempel: Glykol
+TODO: Lägg in exempel på glykol.
+
+## Är en molekyl en dipol eller inte?
+1. Kolla på strukturen.
+2. Rita elektron- och strukturformel.
+3. TODO: Leta upp listan.
+4. Räkna områden med hög elektrontäthet.
+5. Sätt de elektrontäta områdena så långt ifrån varandra i 3D.
+6. Om laddningarna är jämt fördelade runt molekylen är den inte en dipol. Om laddningarna är ojämt fördelade så är det en dipol.
