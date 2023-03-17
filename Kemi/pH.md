@@ -18,7 +18,7 @@ $\ce{pOH = -lg[OH^-]}$
 
 $\ce{pOH + pH = 14.00}$
 
-$\ce{[H_3O^+]}$ och $\ce{[OH^-]}$ är koncentration $\ce{[H_3O^+]}$ respektive $\ce{[OH^-]}$ i M (molar).
+$\ce{[H_3O^+]}$ och $\ce{[OH^-]}$ är koncentration $\ce{H_3O^+}$ respektive $\ce{OH^-}$ i M (molar).
 
 ## Syror
 Syror har pH < 7. Innehåller hög koncentration $\ce{H^+}$ och $\ce{H_3O^+}$ och låg koncentraion $\ce{OH^-}$, alltså $\ce{[H_3O^+] > [OH^-]}$. Syror avger protoner, vätejoner, $\ce{H^+}$. Syror kan leda elektricitet. Det går att lösa oädla metaller i syror.
